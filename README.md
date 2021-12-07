@@ -6,9 +6,9 @@ _____ is a _____ that helps you with
 ## Screenshots
 <!-- Make screenshots all different sizes -->
 ![Screenshot of home page](https://github.com/amarpan/Project-2-RateMyPets/blob/main/public/images/Screenshot1.png)   
-![Screenshot of Galdalf's pet Profile](https://github.com/amarpan/Project-2-RateMyPets/blob/main/public/images/Screenshot2.png)
-![Screenshot of Galdalf's pet Profile](https://github.com/amarpan/Project-2-RateMyPets/blob/main/public/images/Screenshot2.png)
-![Screenshot of Galdalf's pet Profile](https://github.com/amarpan/Project-2-RateMyPets/blob/main/public/images/Screenshot2.png)
+![Screenshot of Profile](https://github.com/amarpan/Project-2-RateMyPets/blob/main/public/images/Screenshot2.png)
+![Screenshot of  Profile](https://github.com/amarpan/Project-2-RateMyPets/blob/main/public/images/Screenshot2.png)
+![Screenshot of Profile](https://github.com/amarpan/Project-2-RateMyPets/blob/main/public/images/Screenshot2.png)
 
 Technologies
 -   Python
@@ -36,4 +36,4 @@ Our [Pitch Deck]()
 <a href="https://ursistech.github.io/project1-connect4/" target="_blank">Play Here!</a>
 
 Some of our icebox ideas!
-There are two features that would greatly increase the user experience on BOTB. The first would be enabling image uploads directly from a local disk drive, as opposed to only an image link. The second are animations via DOM manipulation, which would turn the wireframe concept into reality. Lastly, displaying the posts chronologically instead of by creator would be more intuitive.
+There are two features that would greatly increase the user experience. The first would be enabling image uploads directly from a local disk drive, as opposed to only an image link. The second are animations via DOM manipulation, which would turn the wireframe concept into reality. Lastly, displaying the posts chronologically instead of by creator would be more intuitive.
