@@ -1,7 +1,7 @@
 # project-4 - meet your classmates
 by Student McGee   
 
-_____ is a _____ that helps you with 
+Meet Your Classmates is an app where students can get to know each other. 
 
 ## Screenshots
 <!-- Make screenshots all different sizes -->
