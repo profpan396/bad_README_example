@@ -5,12 +5,14 @@ _____ is a _____ that helps you with
 
 ## Screenshots
 <!-- Make screenshots all different sizes -->
-![Screenshot of home page](https://github.com/amarpan/Project-2-RateMyPets/blob/main/public/images/Screenshot1.png)   
-![Screenshot of Profile](https://github.com/amarpan/Project-2-RateMyPets/blob/main/public/images/Screenshot2.png)
-![Screenshot of  Profile](https://github.com/amarpan/Project-2-RateMyPets/blob/main/public/images/Screenshot2.png)
-![Screenshot of Profile](https://github.com/amarpan/Project-2-RateMyPets/blob/main/public/images/Screenshot2.png)
+![Screenshot of home page](https://github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/ERD.MYC.png)   
+![Screenshot of Profile](https://github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/Homepage.Wireframe.MYC.png)
+![Screenshot of  Profile](https://github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/ProfilePage.Wireframe.MYC.png)
+![Screenshot of Profile](https://github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/FeedPage.png)
+![Screenshot of Profile](https://github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/ProfilePage.png)
 
-Technologies
+
+Technologies:
 -   Python
 -   Django
 -   HTML
@@ -22,18 +24,13 @@ Technologies
 -   JS
 
 Game rules:
-  At the start, the player will be able to click on any of the six pits on the bottom row. This is the player's side of the board. Once this happens, the stones that were in the selected pit will be distributed in a counterclockwise direction. Starting from the next pit along the player's path, one stone from the seleceted pit will be dropped in each pit along the player's path until there are none left. If the last stone lands in the player's mancala, on the right, it will turn green, indicating that they can pick up stones from another one of their pits and make a second move. If the player's move ends in any spot on the board besides their own mancala, then it will be the computer's turn.
-Neither of the players drop stones in their opponents' mancalas.
-If any of the players' last stone dropped is the only one in a pit on their side, and there is at least one in the pit directly opposite, then they will collect that one stone along with however many are in the opposite pit, and put them in their mancala.
-The game ends when one of the players' rows is empty. Once this happens, the opponent collects all of the stones in their row and places them in their mancala. Whoever has the most stones wins.
+  To start, the user should type in answers to each of the 3 randomly-generated mini-survey questions. Then they should click on "Add Survey" to post your responses so others may see them. A user may click on the "X" in the bottom-right corner to delete a post. Posts may also be "liked" or "disliked" by clicking on the thumbs up or down button on their card. To reveal the author of a post, hover over the "Who could it possibly be?" button. To see more posts by the same user, click on the revealed username and profile picture.
 
 Links:
 
-Our [Trello Board]()
+[Trello Board](https://trello.com/b/x4ViComX/meet-your-classmates-project-4)
 
-Our [Pitch Deck]()
-
-<a href="https://ursistech.github.io/project1-connect4/" target="_blank">Play Here!</a>
+<a href="https://meetyourclassmates.herokuapp.com/" target="_blank">Play Here!</a>
 
 Some of our icebox ideas!
-There are two features that would greatly increase the user experience. The first would be enabling image uploads directly from a local disk drive, as opposed to only an image link. The second are animations via DOM manipulation, which would turn the wireframe concept into reality. Lastly, displaying the posts chronologically instead of by creator would be more intuitive.
+One thing I didn't get to add that I wished could have been included was the ability to add comment functionality so others users can interact with one another and have discussions. Another would have been to add the ability to edit and update one's user profile. 
